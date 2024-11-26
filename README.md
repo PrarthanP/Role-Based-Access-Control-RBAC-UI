@@ -53,17 +53,17 @@ or
 - yarn dev
 
 ### 🛠️ Tech Stack
-*Frontend Framework: React
+* Frontend Framework: React
 
-*Styling: Tailwind CSS
+* Styling: Tailwind CSS
 
-*UI Components: Shadcn UI
+* UI Components: Shadcn UI
 
-*State Management: React Context API
+* State Management: React Context API
 
-*Form Handling: React Hook Form
+* Form Handling: React Hook Form
 
-*Authentication: JWT
+* Authentication: JWT
 
 ### 📁 Project Structure
 rbac-dashboard/
@@ -106,11 +106,11 @@ If you discover any bugs, please create an issue using the bug report template.
 * Bulk user operations
 
 ### 👏 Acknowledgments
-*Shadcn UI for the beautiful components
+* Shadcn UI for the beautiful components
 
-*Tailwind CSS team for the styling framework
+* Tailwind CSS team for the styling framework
 
-*All our contributors and supporters
+* All our contributors and supporters
 
 ### 📧 Contact
 For any queries or support, please open an issue in the repository.
