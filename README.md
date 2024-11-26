@@ -75,8 +75,7 @@ rbac-dashboard/
 │   ├── utils/               # Utility functions
 │   ├── styles/              # Global styles
 │   └── types/               # TypeScript type definitions
-├── public/                  # Static assets
-└── tests/                   # Test files
+└── public/                   # Static assets
 
 ### 🔧 Configuration
 The application can be configured using environment variables:
