@@ -37,21 +37,21 @@ A modern Role-Based Access Control (RBAC) dashboard built with React, providing 
 
 ### Installation
 
-1. Clone the repository
+#### 1. Clone the repository
 git clone https://github.com/yourusername/rbac-dashboard.git
 cd rbac-dashboard
 
-2. Install dependencies:
+#### 2. Install dependencies:
 - npm install
-# or
+or
 - yarn install
 
-3. Set up environment variables: 
+#### 3. Set up environment variables: 
 - cp .env.example .env
 
-4. Start the development server:
+#### 4. Start the development server:
 - npm run dev
-# or
+or
 - yarn dev
 
 ### 🛠️ Tech Stack
@@ -87,7 +87,7 @@ REACT_APP_AUTH_TOKEN=your_auth_token
 
 ## 🧪 Running Tests
 - npm test
-# or
+or
 - yarn test
 
 ### 📚 Documentation
@@ -107,12 +107,12 @@ If you discover any bugs, please create an issue using the bug report template.
 
 * Bulk user operations
 
-👏 Acknowledgments
-Shadcn UI for the beautiful components
+### 👏 Acknowledgments
+*Shadcn UI for the beautiful components
 
-Tailwind CSS team for the styling framework
+*Tailwind CSS team for the styling framework
 
-All our contributors and supporters
+*All our contributors and supporters
 
 ### 📧 Contact
 For any queries or support, please open an issue in the repository.
