@@ -69,14 +69,14 @@ or
 rbac-dashboard/
 ├── src/
 │   ├── components/          # Reusable UI components
-│   ├── pages/              # Page components
-│   ├── hooks/              # Custom React hooks
-│   ├── context/            # React context providers
-│   ├── utils/              # Utility functions
-│   ├── styles/             # Global styles
-│   └── types/              # TypeScript type definitions
-├── public/                 # Static assets
-└── tests/                  # Test files
+│   ├── pages/               # Page components
+│   ├── hooks/               # Custom React hooks
+│   ├── context/             # React context providers
+│   ├── utils/               # Utility functions
+│   ├── styles/              # Global styles
+│   └── types/               # TypeScript type definitions
+├── public/                  # Static assets
+└── tests/                   # Test files
 
 ### 🔧 Configuration
 The application can be configured using environment variables:
