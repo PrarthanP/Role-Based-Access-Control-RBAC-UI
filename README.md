@@ -2,8 +2,6 @@
 
 A modern Role-Based Access Control (RBAC) dashboard built with React, providing an intuitive interface for managing users, roles, and permissions in your organization.
 
-![RBAC Dashboard](screenshot.png)
-
 ## 🌟 Features
 
 ### User Management
