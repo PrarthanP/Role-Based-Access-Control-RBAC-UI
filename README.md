@@ -1,117 +1,70 @@
-# RBAC Dashboard
+# Getting Started with Create React App
 
-A modern Role-Based Access Control (RBAC) dashboard built with React, providing an intuitive interface for managing users, roles, and permissions in your organization.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 🌟 Features
+## Available Scripts
 
-### User Management
-- ✨ Create, update, and delete users
-- 👥 Manage user profiles and information
-- 🔍 Search and filter users
-- 🔄 Toggle user activation status
-- 📊 View user activity logs
+In the project directory, you can run:
 
-### Role Management
-- 🎭 Create and customize roles
-- 🔐 Define role hierarchies
-- 📝 Add role descriptions
-- 🎯 Set role-specific permissions
-- 🔍 Search roles by name or description
+### `npm start`
 
-### Permission Management
-- ⚡ Fine-grained permission control
-- 🔄 Dynamic permission updates
-- 📊 Visual permission matrix
-- 🔒 Secure permission inheritance
-- 🎯 Resource-based access control
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## 🚀 Getting Started
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### Prerequisites
+### `npm test`
 
-- Node.js (v14.0.0 or higher)
-- npm or yarn
-- Modern web browser
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### Installation
+### `npm run build`
 
-#### 1. Clone the repository
-git clone https://github.com/yourusername/rbac-dashboard.git
-cd rbac-dashboard
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-#### 2. Install dependencies:
-- npm install
-or
-- yarn install
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-#### 3. Set up environment variables: 
-- cp .env.example .env
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-#### 4. Start the development server:
-- npm run dev
-or
-- yarn dev
+### `npm run eject`
 
-### 🛠️ Tech Stack
-* Frontend Framework: React
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-* Styling: Tailwind CSS
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-* UI Components: Shadcn UI
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-* State Management: React Context API
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-* Form Handling: React Hook Form
+## Learn More
 
-* Authentication: JWT
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-### 📁 Project Structure
-rbac-dashboard/
-├── src/
-│   ├── components/          # Reusable UI components
-│   ├── pages/               # Page components
-│   ├── hooks/               # Custom React hooks
-│   ├── context/             # React context providers
-│   ├── utils/               # Utility functions
-│   ├── styles/              # Global styles
-│   └── types/               # TypeScript type definitions
-└── public/                   # Static assets
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-### 🔧 Configuration
-The application can be configured using environment variables:
-REACT_APP_API_URL=your_api_url
-REACT_APP_AUTH_TOKEN=your_auth_token
+### Code Splitting
 
-## 🧪 Running Tests
-- npm test
-or
-- yarn test
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### 📚 Documentation
-For detailed documentation on components and API, please refer to the Wiki.
+### Analyzing the Bundle Size
 
-### 🐛 Bug Reports
-If you discover any bugs, please create an issue using the bug report template.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### ✨ Future Enhancements
-* Multi-language support
+### Making a Progressive Web App
 
-* Dark mode
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-* Advanced analytics dashboard
+### Advanced Configuration
 
-* Role templates
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-* Bulk user operations
+### Deployment
 
-### 👏 Acknowledgments
-* Shadcn UI for the beautiful components
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-* Tailwind CSS team for the styling framework
+### `npm run build` fails to minify
 
-* All our contributors and supporters
-
-### 📧 Contact
-For any queries or support, please open an issue in the repository.
-
-Made with ❤️ Prarthan
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
